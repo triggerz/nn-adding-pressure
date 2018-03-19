@@ -3,8 +3,9 @@
  - Initial Scene: scene-1
 
 # Variables
- - Resources: 100
- - Engagement: 100
- - Output: 100
- - Total: 100
+ - yourself-authentic-strongintegrity
+ - yourself-authentic-rolemodel
+ - rolemodel-setdirection-ambitious
+ - rolemodel-decisions-thennway
+ - rolemodel-busisnessimpact-knowledge
 
