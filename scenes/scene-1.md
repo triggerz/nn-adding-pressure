@@ -1,6 +1,6 @@
 # Config
  - Title: Adding pressure 
- - Image: http://res.cloudinary.com/triggerz/image/upload/v1513594352/Billede1_ls6myi.png
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521489932/rawpixel-com-252130-unsplash.jpg
 
 # Description
 
